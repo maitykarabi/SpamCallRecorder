@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "879826851192",
+    "firebase_url": "https://phnrecorder-c47a3.firebaseio.com",
+    "project_id": "phnrecorder-c47a3",
+    "storage_bucket": "phnrecorder-c47a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879826851192:android:ff3f2f7e6c710ef2b9a48d",
+        "android_client_info": {
+          "package_name": "com.example.phnrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879826851192-hmltsd3q0inft7kloa54t9g57h5j7j9a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phnrecorder",
+            "certificate_hash": "7ad4a58e1aa1e6c1205351db8c8750de78885ba3"
+          }
+        },
+        {
+          "client_id": "879826851192-h8cq48ikhmdabujoc6b2ehd9vpm6bgi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.phnrecorder",
+            "certificate_hash": "62abe2c454f83cd58cc80f7c73c23ca69f8d6534"
+          }
+        },
+        {
+          "client_id": "879826851192-h18f4h4voo0dc5qqb179hj16piufqfgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbuN1fOJzk5rZygaUop354TdgKLM9Wm2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879826851192-h18f4h4voo0dc5qqb179hj16piufqfgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879826851192:android:500554bbadef75a9b9a48d",
+        "android_client_info": {
+          "package_name": "com.spm_record.Phone_record_spam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879826851192-d37recdequmg31nm9tu2l1emb86o1m5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spm_record.Phone_record_spam",
+            "certificate_hash": "62abe2c454f83cd58cc80f7c73c23ca69f8d6534"
+          }
+        },
+        {
+          "client_id": "879826851192-h18f4h4voo0dc5qqb179hj16piufqfgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbuN1fOJzk5rZygaUop354TdgKLM9Wm2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879826851192-h18f4h4voo0dc5qqb179hj16piufqfgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

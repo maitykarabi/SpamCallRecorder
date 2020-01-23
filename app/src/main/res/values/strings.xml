@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Phone_record_spam</string>
+    <string name="device_description" translatable="false">devDesc</string>
+    <string name="device_admin_label" translatable="false">devAdmin</string>
+</resources>
