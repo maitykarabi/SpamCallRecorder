@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        FirebaseMessaging.getInstance().subscribeToTopic("notifications");
         //if(CheckPermissions()) {
 
             Toast.makeText(getApplicationContext(), "The App Started", Toast.LENGTH_LONG).show();
